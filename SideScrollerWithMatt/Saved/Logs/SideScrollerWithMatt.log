@@ -12925,3 +12925,727 @@ LogInit: Object subsystem initialized
 [2018.07.30-03.58.11:607][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto9.umap
 [2018.07.30-03.58.11:610][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.255
 [2018.07.30-03.58.11:610][657]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2018.07.30-03.58.26:786][203]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2018.07.30-03.58.27:856][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-03.58.28:619][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-03.58.46:613][756]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-03.58.51:675][120]LogSavePackage: Save=83.27ms
+[2018.07.30-03.58.51:675][120]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/EntityBD4CC9C741D1E3D7EDA180AE6EC7B8CF.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Entity.uasset'
+[2018.07.30-03.58.51:684][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Entity.uasset
+[2018.07.30-03.58.51:867][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.58.51:944][138]BlueprintLog: New page: Compile Entity
+[2018.07.30-03.58.51:965][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d16901608, Size=4
+[2018.07.30-03.58.51:965][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ce024f970, Size=4, REINST_SKEL_Enemy_C_1 Function /Engine/Transient.REINST_REINST_SKEL_Enemy_C_831:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.51:965][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d16903968, Size=4
+[2018.07.30-03.58.51:965][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ce024c980, Size=4, REINST_SKEL_Enemy_Ranged_C_0 Function /Engine/Transient.REINST_REINST_SKEL_Enemy_C_831:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.51:965][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d16900ea8, Size=4
+[2018.07.30-03.58.51:966][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ce024fa38, Size=4, REINST_SKEL_Enemy_C_2 Function /Engine/Transient.REINST_REINST_SKEL_Enemy_C_834:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.51:966][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d169039f0, Size=4
+[2018.07.30-03.58.51:966][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ce024ce10, Size=4, REINST_SKEL_Enemy_Ranged_C_1 Function /Engine/Transient.REINST_REINST_SKEL_Enemy_C_834:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1166e200, Size=40
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124860, Size=40, Entity_C_66 Function /Engine/Transient.REINST_Entity_C_846:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0bceb3d0, Size=20
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d16183e48, Size=40
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d2c34cfa0, Size=20, Enemy_C_75 Function /Engine/Transient.REINST_Enemy_C_847:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.52:039][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124658, Size=40, Enemy_C_75 Function /Engine/Transient.REINST_Entity_C_846:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cfcf8db40, Size=200
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1166e598, Size=40
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024cb3632da0, Size=200, Player_C_88 Function /Engine/Transient.REINST_Player_C_848:ExecuteUbergraph_Player
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01127038, Size=40, Player_C_88 Function /Engine/Transient.REINST_Entity_C_846:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0bcea1e8, Size=20
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d16181468, Size=40
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d2c34d018, Size=20, Enemy_Ranged_C_43 Function /Engine/Transient.REINST_Enemy_C_847:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.52:040][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01127920, Size=40, Enemy_Ranged_C_43 Function /Engine/Transient.REINST_Entity_C_846:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:054][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124e28, Size=40, Default__Entity_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:057][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024c8231f508, Size=20, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.52:057][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01126200, Size=40, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:058][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d0573a400, Size=200, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Player.Player_C:ExecuteUbergraph_Player
+[2018.07.30-03.58.52:058][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124e78, Size=40, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.58.52:059][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024c8231e8d8, Size=20, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.58.52:059][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01127808, Size=40, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.58.53:512][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.30-03.58.53:563][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.58.53:563][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-03.58.53:563][170]PIE: New page: PIE session: SideScrollerExampleMap (Jul 29, 2018, 1:58:53 PM)
+[2018.07.30-03.58.53:563][170]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.07.30-03.58.53:579][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015771s)
+[2018.07.30-03.58.53:580][170]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.07.30-03.58.53:581][170]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2018.07.30-03.58.53:581][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017566s)
+[2018.07.30-03.58.53:668][170]LogInit: XAudio2 using 'E221-A1-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-03.58.53:677][170]LogInit: FAudioDevice initialized.
+[2018.07.30-03.58.53:726][170]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.07.30-03.58.53:732][170]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.07.29-20.58.53
+[2018.07.30-03.58.53:733][170]LogWorld: Bringing up level for play took: 0.004584
+[2018.07.30-03.58.53:741][170]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.428
+[2018.07.30-03.58.53:741][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.58.55:218][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.58.55:246][263]LogSlate: Window 'SideScrollerWithMatt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.30-03.58.55:298][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.58.57:117][400]LogSavePackage: Save=26.38ms
+[2018.07.30-03.58.57:117][400]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Player57E8EBFB4B9CD544C648928055B01B3F.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset'
+[2018.07.30-03.58.57:125][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset
+[2018.07.30-03.58.57:275][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.58.57:366][422]BlueprintLog: New page: Compile Player
+[2018.07.30-03.58.57:387][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0573a400, Size=200
+[2018.07.30-03.58.57:387][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124e78, Size=40
+[2018.07.30-03.58.57:387][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d4a2b42c0, Size=200, Player_C_99 Function /Engine/Transient.REINST_Player_C_857:ExecuteUbergraph_Player
+[2018.07.30-03.58.57:387][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024cf3f80ce8, Size=40, Player_C_99 Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.58.57:391][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1613d8a0, Size=200, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Player.Player_C:ExecuteUbergraph_Player
+[2018.07.30-03.58.57:391][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024cf3f80e00, Size=40, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.04:902][ 31]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-03.59.09:130][364]LogSavePackage: Save=65.09ms
+[2018.07.30-03.59.09:130][364]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/EntityE64D44E045A77ECD99C8B5A394B3E12A.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Entity.uasset'
+[2018.07.30-03.59.09:138][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Entity.uasset
+[2018.07.30-03.59.09:302][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.59.09:408][385]BlueprintLog: New page: Compile Entity
+[2018.07.30-03.59.09:500][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124e28, Size=40
+[2018.07.30-03.59.09:500][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc71030, Size=40, Entity_C_71 Function /Engine/Transient.REINST_Entity_C_872:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:500][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c8231f508, Size=20
+[2018.07.30-03.59.09:500][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01126200, Size=40
+[2018.07.30-03.59.09:500][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ca6524e80, Size=20, Enemy_C_80 Function /Engine/Transient.REINST_Enemy_C_873:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.09:501][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc716e8, Size=40, Enemy_C_80 Function /Engine/Transient.REINST_Entity_C_872:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1613d8a0, Size=200
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cf3f80e00, Size=40
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d0573a320, Size=200, Player_C_120 Function /Engine/Transient.REINST_Player_C_874:ExecuteUbergraph_Player
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc73150, Size=40, Player_C_120 Function /Engine/Transient.REINST_Entity_C_872:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c8231e8d8, Size=20
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01127808, Size=40
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ca6525150, Size=20, Enemy_Ranged_C_50 Function /Engine/Transient.REINST_Enemy_C_873:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.09:512][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc70680, Size=40, Enemy_Ranged_C_50 Function /Engine/Transient.REINST_Entity_C_872:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:528][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc72890, Size=40, Default__Entity_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:530][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d0bd3a4a0, Size=20, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.09:530][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc701d0, Size=40, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:532][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024cb30b1b40, Size=200, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Player.Player_C:ExecuteUbergraph_Player
+[2018.07.30-03.59.09:532][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc711e8, Size=40, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.09:533][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d0bd39588, Size=20, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.09:533][385]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc70ab8, Size=40, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.19:365][124]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.30-03.59.23:617][507]LogSavePackage: Save=25.95ms
+[2018.07.30-03.59.23:617][507]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Player06BF943847915D294A264896F79ADED6.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset'
+[2018.07.30-03.59.23:626][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset
+[2018.07.30-03.59.23:816][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.59.23:889][529]BlueprintLog: New page: Compile Player
+[2018.07.30-03.59.23:907][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cb30b1b40, Size=200
+[2018.07.30-03.59.23:907][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc711e8, Size=40
+[2018.07.30-03.59.23:907][529]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024caa1fe080, Size=200, Player_C_141 Function /Engine/Transient.REINST_Player_C_883:ExecuteUbergraph_Player
+[2018.07.30-03.59.23:907][529]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc711e8, Size=40, Player_C_141 Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.23:912][529]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024c363fb2e0, Size=200, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Player.Player_C:ExecuteUbergraph_Player
+[2018.07.30-03.59.23:912][529]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc710a8, Size=40, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.24:976][581]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.30-03.59.25:034][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.59.25:034][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.30-03.59.25:035][581]PIE: New page: PIE session: SideScrollerExampleMap (Jul 29, 2018, 1:59:25 PM)
+[2018.07.30-03.59.25:035][581]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.07.30-03.59.25:048][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013502s)
+[2018.07.30-03.59.25:049][581]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.07.30-03.59.25:049][581]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.07.30-03.59.25:049][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014641s)
+[2018.07.30-03.59.25:092][581]LogInit: XAudio2 using 'E221-A1-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.30-03.59.25:101][581]LogInit: FAudioDevice initialized.
+[2018.07.30-03.59.25:151][581]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.07.30-03.59.25:157][581]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.07.29-20.59.25
+[2018.07.30-03.59.25:158][581]LogWorld: Bringing up level for play took: 0.004898
+[2018.07.30-03.59.25:166][581]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.146
+[2018.07.30-03.59.25:167][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.59.28:174][799]LogScript: Warning: Attempted to access Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_7 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.28:174][799]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_7 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_7 is pending kill
+[2018.07.30-03.59.29:739][920]LogScript: Warning: Attempted to access Projectile_C_11 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_11 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.29:739][920]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_11 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_11 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_11 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_11 is pending kill
+[2018.07.30-03.59.34:573][292]LogScript: Warning: Attempted to access Projectile_C_30 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_30 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.34:574][292]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_30 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_30 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_30 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_30 is pending kill
+[2018.07.30-03.59.35:898][394]LogScript: Warning: Attempted to access Projectile_C_35 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_35 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.35:898][394]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_35 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_35 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_35 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_35 is pending kill
+[2018.07.30-03.59.37:449][514]LogScript: Warning: Attempted to access Projectile_C_40 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_40 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.37:450][514]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_40 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_40 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_40 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_40 is pending kill
+[2018.07.30-03.59.38:396][587]LogScript: Warning: Attempted to access Projectile_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_44 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.38:397][587]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_44 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_44 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_44 is pending kill
+[2018.07.30-03.59.40:115][719]LogScript: Warning: Attempted to access Projectile_C_51 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_51 is pending kill
+	Player_C /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.Player_675
+	Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:Attack:02A0
+[2018.07.30-03.59.40:115][719]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_51 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_51 is pending kill from function: 'Attack' from node: SetActorRotation in graph: Attack in object: Entity with description: Attempted to access Projectile_C_51 via property CallFunc_FinishSpawningActor_ReturnValue, but Projectile_C_51 is pending kill
+[2018.07.30-03.59.41:561][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.59.41:588][833]LogSlate: Window 'SideScrollerWithMatt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.30-03.59.41:644][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.07.30-03.59.43:003][930]LogSavePackage: Save=25.22ms
+[2018.07.30-03.59.43:003][930]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Player25407E7840CD8AD6F402D2B13C53DC7E.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset'
+[2018.07.30-03.59.43:004][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Player.uasset
+[2018.07.30-03.59.43:400][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.59.43:475][970]BlueprintLog: New page: Compile Player
+[2018.07.30-03.59.43:493][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c363fb2e0, Size=200
+[2018.07.30-03.59.43:493][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc710a8, Size=40
+[2018.07.30-03.59.43:494][970]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1613e780, Size=200, Player_C_152 Function /Engine/Transient.REINST_Player_C_888:ExecuteUbergraph_Player
+[2018.07.30-03.59.43:494][970]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc710a8, Size=40, Player_C_152 Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.43:497][970]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024cfcf8c800, Size=200, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Player.Player_C:ExecuteUbergraph_Player
+[2018.07.30-03.59.43:497][970]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ccdc70dd8, Size=40, Default__Player_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.51:350][608]LogSavePackage: Save=66.40ms
+[2018.07.30-03.59.51:350][608]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Enemy3925E8944791ABCCDC73F39243701354.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy.uasset'
+[2018.07.30-03.59.51:358][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy.uasset
+[2018.07.30-03.59.51:812][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-03.59.51:884][652]BlueprintLog: New page: Compile Enemy
+[2018.07.30-03.59.51:913][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0bd3a4a0, Size=20
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc701d0, Size=40
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1fb46e48, Size=20, Enemy_C_83 Function /Engine/Transient.REINST_Enemy_C_894:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124e78, Size=40, Enemy_C_83 Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0bd39588, Size=20
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc70ab8, Size=40
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1fb469c8, Size=20, Enemy_Ranged_C_53 Function /Engine/Transient.REINST_Enemy_C_894:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.51:914][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01125ee0, Size=40, Enemy_Ranged_C_53 Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.51:937][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1fb46f20, Size=20, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.51:937][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01124810, Size=40, Default__Enemy_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.51:940][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d1fb47040, Size=20, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.07.30-03.59.51:940][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d01127ec0, Size=40, Default__Enemy_Ranged_C Function /Game/SideScrollerBP/Blueprints/Entity.Entity_C:ExecuteUbergraph_Entity
+[2018.07.30-03.59.52:393][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1613e780, Size=200
+[2018.07.30-03.59.52:393][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc710a8, Size=40
+[2018.07.30-04.00.15:990][105]LogSavePackage: Save=48.87ms
+[2018.07.30-04.00.15:990][105]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Enemy69501F59470A1C9A104A0C83BF84D58B.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy.uasset'
+[2018.07.30-04.00.15:991][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy.uasset
+[2018.07.30-04.00.16:890][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-04.00.18:356][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1fb469c8, Size=20
+[2018.07.30-04.00.18:356][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01125ee0, Size=40
+[2018.07.30-04.00.18:356][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1fb46e48, Size=20
+[2018.07.30-04.00.18:356][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124e78, Size=40
+[2018.07.30-04.00.18:896][304]LogSavePackage: Save=153.60ms
+[2018.07.30-04.00.18:896][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/SideScrollerExampleMap76C49B6A4E6B5B932D8D0083F135AA80.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.07.30-04.00.18:907][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.07.30-04.00.18:955][304]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.582
+[2018.07.30-04.00.18:976][304]LogSavePackage: Save=10.13ms
+[2018.07.30-04.00.18:976][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles818F88834082AEEA9BC5ADBC53771B2C.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles.uasset'
+[2018.07.30-04.00.18:994][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles.uasset
+[2018.07.30-04.00.19:025][304]LogSavePackage: Save=11.94ms
+[2018.07.30-04.00.19:025][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_09C2AA7B14032D9DEB7B18381F69FAEA6.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_0.uasset'
+[2018.07.30-04.00.19:032][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_0.uasset
+[2018.07.30-04.00.19:064][304]LogSavePackage: Save=13.14ms
+[2018.07.30-04.00.19:064][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_1ABCFE9F3482B78A8C1AC1AB7AE7493EE.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_1.uasset'
+[2018.07.30-04.00.19:071][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_1.uasset
+[2018.07.30-04.00.19:098][304]LogSavePackage: Save=11.59ms
+[2018.07.30-04.00.19:098][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_2D42D1A4C48933E645A4B5AA385D22484.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_2.uasset'
+[2018.07.30-04.00.19:105][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_2.uasset
+[2018.07.30-04.00.19:135][304]LogSavePackage: Save=10.95ms
+[2018.07.30-04.00.19:135][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_394876B74411E8621BA83F3A4A80F03E1.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_3.uasset'
+[2018.07.30-04.00.19:144][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_3.uasset
+[2018.07.30-04.00.19:171][304]LogSavePackage: Save=10.96ms
+[2018.07.30-04.00.19:171][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_4C3C1A3F343E3C8F9594F0CBF283D4AB4.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_4.uasset'
+[2018.07.30-04.00.19:179][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_4.uasset
+[2018.07.30-04.00.19:207][304]LogSavePackage: Save=11.17ms
+[2018.07.30-04.00.19:207][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_543B048D145A66F4AEAED23A502918E4D.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_5.uasset'
+[2018.07.30-04.00.19:215][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_5.uasset
+[2018.07.30-04.00.19:243][304]LogSavePackage: Save=11.80ms
+[2018.07.30-04.00.19:243][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_60F65F3014811FE4D22D14CBF772FFBD9.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_6.uasset'
+[2018.07.30-04.00.19:251][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_6.uasset
+[2018.07.30-04.00.19:279][304]LogSavePackage: Save=11.97ms
+[2018.07.30-04.00.19:279][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_74FF5AD7D43E0CFEFF54E7D9D91D85F2A.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_7.uasset'
+[2018.07.30-04.00.19:287][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_7.uasset
+[2018.07.30-04.00.19:319][304]LogSavePackage: Save=12.46ms
+[2018.07.30-04.00.19:319][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_8A83FC0B94188C2FE662DBCA350E9A6F5.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_8.uasset'
+[2018.07.30-04.00.19:327][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_8.uasset
+[2018.07.30-04.00.19:356][304]LogSavePackage: Save=11.67ms
+[2018.07.30-04.00.19:356][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_9F736DC764C1788F85B61259AD082D45F.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_9.uasset'
+[2018.07.30-04.00.19:374][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_9.uasset
+[2018.07.30-04.00.19:401][304]LogSavePackage: Save=11.33ms
+[2018.07.30-04.00.19:401][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_10BFB9AFFB41542C78AFED8AAAB20A25D7.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_10.uasset'
+[2018.07.30-04.00.19:409][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_10.uasset
+[2018.07.30-04.00.19:437][304]LogSavePackage: Save=11.87ms
+[2018.07.30-04.00.19:437][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_116415660149A12E50E18070809E96E0C9.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_11.uasset'
+[2018.07.30-04.00.19:445][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_11.uasset
+[2018.07.30-04.00.19:470][304]LogSavePackage: Save=11.36ms
+[2018.07.30-04.00.19:470][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_12A20C21C54402FE9CB8658583E3BFE79F.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_12.uasset'
+[2018.07.30-04.00.19:478][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_12.uasset
+[2018.07.30-04.00.19:504][304]LogSavePackage: Save=12.09ms
+[2018.07.30-04.00.19:505][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_139F5F427446A133DE737F9E8391CF3FA9.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_13.uasset'
+[2018.07.30-04.00.19:513][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_13.uasset
+[2018.07.30-04.00.19:541][304]LogSavePackage: Save=12.53ms
+[2018.07.30-04.00.19:541][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_14379D78264057C6AD5689139374B4C33A.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_14.uasset'
+[2018.07.30-04.00.19:550][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_14.uasset
+[2018.07.30-04.00.19:576][304]LogSavePackage: Save=10.98ms
+[2018.07.30-04.00.19:576][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_15A58BB25241B01F09B424DC9FE6E89B5E.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_15.uasset'
+[2018.07.30-04.00.19:679][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_15.uasset
+[2018.07.30-04.00.19:704][304]LogSavePackage: Save=10.89ms
+[2018.07.30-04.00.19:704][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_16E46F97FB4F0E903829E7D4ADCDAC7DF6.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_16.uasset'
+[2018.07.30-04.00.19:712][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_16.uasset
+[2018.07.30-04.00.19:738][304]LogSavePackage: Save=11.10ms
+[2018.07.30-04.00.19:738][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_17F7E733E445565BD14BD62AB9DD54A42B.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_17.uasset'
+[2018.07.30-04.00.19:747][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_17.uasset
+[2018.07.30-04.00.19:774][304]LogSavePackage: Save=12.04ms
+[2018.07.30-04.00.19:774][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_180D0AED604D0CE206B44828BC45C4FB90.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_18.uasset'
+[2018.07.30-04.00.19:782][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_18.uasset
+[2018.07.30-04.00.19:810][304]LogSavePackage: Save=11.76ms
+[2018.07.30-04.00.19:810][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_19B9E5B5894A2D41F003F2308A59E3EBD5.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_19.uasset'
+[2018.07.30-04.00.19:818][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_19.uasset
+[2018.07.30-04.00.19:845][304]LogSavePackage: Save=12.04ms
+[2018.07.30-04.00.19:845][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_20DEA2645E4BD50840342C8C9A06DAFE50.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_20.uasset'
+[2018.07.30-04.00.19:853][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_20.uasset
+[2018.07.30-04.00.19:880][304]LogSavePackage: Save=11.93ms
+[2018.07.30-04.00.19:880][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_2100FB16BF4A9C46DA02EDF3A593BFD62B.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_21.uasset'
+[2018.07.30-04.00.19:888][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_21.uasset
+[2018.07.30-04.00.19:917][304]LogSavePackage: Save=13.07ms
+[2018.07.30-04.00.19:917][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_22D6E6CC73400883D23D2622ABA261E08F.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_22.uasset'
+[2018.07.30-04.00.19:926][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_22.uasset
+[2018.07.30-04.00.19:966][304]LogSavePackage: Save=25.23ms
+[2018.07.30-04.00.19:966][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_2352ECD6344B426770C8E003B4A9F36D59.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_23.uasset'
+[2018.07.30-04.00.19:973][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_23.uasset
+[2018.07.30-04.00.20:048][304]LogSavePackage: Save=60.39ms
+[2018.07.30-04.00.20:048][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_2425A6A5C34DBAD7DE7F9B3083AF89225B.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_24.uasset'
+[2018.07.30-04.00.20:072][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_24.uasset
+[2018.07.30-04.00.20:111][304]LogSavePackage: Save=12.02ms
+[2018.07.30-04.00.20:111][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_25ED5FD2424BD3D857A9D9CBAC29FC997C.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_25.uasset'
+[2018.07.30-04.00.20:119][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_25.uasset
+[2018.07.30-04.00.20:146][304]LogSavePackage: Save=11.42ms
+[2018.07.30-04.00.20:146][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_269A52C42A4AEFDB6C26453C9B11FB3E2C.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_26.uasset'
+[2018.07.30-04.00.20:153][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_26.uasset
+[2018.07.30-04.00.20:181][304]LogSavePackage: Save=11.22ms
+[2018.07.30-04.00.20:181][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_27309B8EEA40C6CFCFEC390095FD290E97.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_27.uasset'
+[2018.07.30-04.00.20:189][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_27.uasset
+[2018.07.30-04.00.20:216][304]LogSavePackage: Save=10.83ms
+[2018.07.30-04.00.20:216][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_28A04D1DC941045013E200B281A54B0C7C.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_28.uasset'
+[2018.07.30-04.00.20:225][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_28.uasset
+[2018.07.30-04.00.20:250][304]LogSavePackage: Save=9.65ms
+[2018.07.30-04.00.20:250][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_2928EEE5F6468406FDF8B9B1BB8BF0BCA8.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_29.uasset'
+[2018.07.30-04.00.20:259][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_29.uasset
+[2018.07.30-04.00.20:284][304]LogSavePackage: Save=10.37ms
+[2018.07.30-04.00.20:284][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_301829FD804A0D57DAB20E2DB7F63E5719.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_30.uasset'
+[2018.07.30-04.00.20:292][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_30.uasset
+[2018.07.30-04.00.20:317][304]LogSavePackage: Save=10.95ms
+[2018.07.30-04.00.20:317][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_31F8D5EED548CDCA56E3561681E373850A.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_31.uasset'
+[2018.07.30-04.00.20:326][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_31.uasset
+[2018.07.30-04.00.20:351][304]LogSavePackage: Save=9.80ms
+[2018.07.30-04.00.20:351][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_328F4E88CE4A3AB5D11E2CAAA32D3BA0B8.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_32.uasset'
+[2018.07.30-04.00.20:359][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_32.uasset
+[2018.07.30-04.00.20:384][304]LogSavePackage: Save=10.33ms
+[2018.07.30-04.00.20:384][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_330A1120754B29597E1E7D979D9BCE1251.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_33.uasset'
+[2018.07.30-04.00.20:408][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_33.uasset
+[2018.07.30-04.00.20:432][304]LogSavePackage: Save=9.63ms
+[2018.07.30-04.00.20:432][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_34100DC5F54FA81B2EAF075481B6C71AE8.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_34.uasset'
+[2018.07.30-04.00.20:439][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_34.uasset
+[2018.07.30-04.00.20:464][304]LogSavePackage: Save=10.26ms
+[2018.07.30-04.00.20:464][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_35E52BDEA84319275A42DB61BE43E454C1.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_35.uasset'
+[2018.07.30-04.00.20:472][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_35.uasset
+[2018.07.30-04.00.20:498][304]LogSavePackage: Save=10.12ms
+[2018.07.30-04.00.20:498][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_36987F47A54C87D006802CBD9BDC03D8AA.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_36.uasset'
+[2018.07.30-04.00.20:506][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_36.uasset
+[2018.07.30-04.00.20:531][304]LogSavePackage: Save=9.76ms
+[2018.07.30-04.00.20:531][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_3720B137204782FEBF470B88BBFB47B365.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_37.uasset'
+[2018.07.30-04.00.20:538][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_37.uasset
+[2018.07.30-04.00.20:566][304]LogSavePackage: Save=11.89ms
+[2018.07.30-04.00.20:566][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_388F5C53E94D941B9B269B47A512F35CB8.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_38.uasset'
+[2018.07.30-04.00.20:574][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_38.uasset
+[2018.07.30-04.00.20:600][304]LogSavePackage: Save=10.75ms
+[2018.07.30-04.00.20:600][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_390BD02E3341397A0DB2140FB5E1779F27.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_39.uasset'
+[2018.07.30-04.00.20:608][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_39.uasset
+[2018.07.30-04.00.20:634][304]LogSavePackage: Save=11.18ms
+[2018.07.30-04.00.20:634][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_401810989D4AE2E43CEE2F939321131A25.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_40.uasset'
+[2018.07.30-04.00.20:642][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_40.uasset
+[2018.07.30-04.00.20:668][304]LogSavePackage: Save=11.20ms
+[2018.07.30-04.00.20:668][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_417D773266447540990AAAA1928CFB6DA0.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_41.uasset'
+[2018.07.30-04.00.20:677][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_41.uasset
+[2018.07.30-04.00.20:703][304]LogSavePackage: Save=10.19ms
+[2018.07.30-04.00.20:703][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_42A77F0DB8404F7EA28EFFA8A21D546F7D.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_42.uasset'
+[2018.07.30-04.00.20:711][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_42.uasset
+[2018.07.30-04.00.20:736][304]LogSavePackage: Save=11.67ms
+[2018.07.30-04.00.20:737][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_43B603ED8C4138072A69470A9193601D98.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_43.uasset'
+[2018.07.30-04.00.20:744][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_43.uasset
+[2018.07.30-04.00.20:771][304]LogSavePackage: Save=11.50ms
+[2018.07.30-04.00.20:771][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_44B8F164404CED0B5C47E368A32D1AF04F.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_44.uasset'
+[2018.07.30-04.00.20:776][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_44.uasset
+[2018.07.30-04.00.20:802][304]LogSavePackage: Save=11.74ms
+[2018.07.30-04.00.20:803][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/projectiles_Sprite_45B84EB1254F1548CA03E78188AAA46C6E.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_45.uasset'
+[2018.07.30-04.00.20:805][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Assets/2D/SpriteSheets/Projectiles/projectiles_Sprite_45.uasset
+[2018.07.30-04.00.20:839][304]LogSavePackage: Save=16.14ms
+[2018.07.30-04.00.20:839][304]LogSavePackage: Moving '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Enemy_RangedBEE3872D404CEB1CF1EA57A9571786F9.tmp' to '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy_Ranged.uasset'
+[2018.07.30-04.00.20:842][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/SideScrollerBP/Blueprints/Enemy_Ranged.uasset
+[2018.07.30-04.00.21:621][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-04.00.29:415][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-04.00.29:492][104]LogSlate: Window 'Attack_Melee' being destroyed
+[2018.07.30-04.00.29:495][104]LogSlate: Window 'Attack_Melee' being destroyed
+[2018.07.30-04.00.29:674][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.29:820][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.29:952][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.30:077][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.30:212][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.30:332][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.30-04.00.31:247][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.30-04.00.32:207][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d2c34cfa0, Size=20
+[2018.07.30-04.00.32:207][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124658, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce076a380, Size=16
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce0a29a30, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ca6525150, Size=20
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc70680, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d4a2b42c0, Size=200
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cf3f80ce8, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ca6524e80, Size=20
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc716e8, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce024ce10, Size=4
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cf431dad0, Size=16
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ceb13db20, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cb3632da0, Size=200
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01127038, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cf431c530, Size=16
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ceb13e318, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d0573a320, Size=200
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc73150, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc71030, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124860, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce024fa38, Size=4
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce01291a0, Size=16
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024caea7c9a0, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024caa1fe080, Size=200
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc711e8, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cc61b56d0, Size=16
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c3daa1a30, Size=40
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce024c980, Size=4
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce024f970, Size=4
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c35ad3580, Size=200
+[2018.07.30-04.00.32:211][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c35bc9378, Size=40
+[2018.07.30-04.00.32:214][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d2c34d018, Size=20
+[2018.07.30-04.00.32:214][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01127920, Size=40
+[2018.07.30-04.00.34:116][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.30-04.00.34:354][538]LogSlate: Window 'SideScrollerWithMatt - Unreal Editor' being destroyed
+[2018.07.30-04.00.34:356][538]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.30-04.00.34:790][539]Cmd: QUIT_EDITOR
+[2018.07.30-04.00.35:056][539]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.30-04.00.35:057][539]LogExit: Preparing to exit.
+[2018.07.30-04.00.35:738][539]LogDirectoryWatcher: A directory notification for 'C:/Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/' was aborted.
+[2018.07.30-04.00.36:060][539]LogExit: Editor shut down
+[2018.07.30-04.00.36:092][539]LogExit: Transaction tracking system shut down
+[2018.07.30-04.00.36:094][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c01504ea0, Size=72
+[2018.07.30-04.00.36:098][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c01425ee0, Size=12
+[2018.07.30-04.00.36:098][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c014d4300, Size=120
+[2018.07.30-04.00.36:101][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1fb47040, Size=20
+[2018.07.30-04.00.36:101][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01127ec0, Size=40
+[2018.07.30-04.00.36:134][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1fb46f20, Size=20
+[2018.07.30-04.00.36:134][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d01124810, Size=40
+[2018.07.30-04.00.36:134][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc72890, Size=40
+[2018.07.30-04.00.36:134][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1166f8a8, Size=40
+[2018.07.30-04.00.36:135][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c738c1aa8, Size=4
+[2018.07.30-04.00.36:135][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024c738c1aa0, Size=4
+[2018.07.30-04.00.36:136][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d2bf90f90, Size=16
+[2018.07.30-04.00.36:136][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d502b61b0, Size=72
+[2018.07.30-04.00.36:136][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024caf80a5c0, Size=72
+[2018.07.30-04.00.36:136][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cfcf8c800, Size=200
+[2018.07.30-04.00.36:136][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ccdc70dd8, Size=40
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cb09a6ac0, Size=16
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ce01df4e8, Size=40
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024caed3bdd0, Size=16
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d1166f7b8, Size=40
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cf42df508, Size=8
+[2018.07.30-04.00.36:137][539]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024cceeb3240, Size=72
+[2018.07.30-04.00.36:340][539]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.30-04.00.36:341][539]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.30-04.00.37:018][539]LogExit: Object subsystem successfully closed.
+[2018.07.30-04.00.37:042][539]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.30-04.00.37:049][539]LogD3D11RHI: Shutdown
+[2018.07.30-04.00.37:049][539]LogD3D11RHI: CleanupD3DDevice
+[2018.07.30-04.00.37:074][539]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module TextureEditor (580)
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.07.30-04.00.37:115][539]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.07.30-04.00.37:115][539]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.07.30-04.00.37:154][539]LogDirectoryWatcher: A directory notification for 'C:/Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Collections/' was aborted.
+[2018.07.30-04.00.37:154][539]LogDirectoryWatcher: A directory notification for 'C:/Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Content/Developers/Alienware/Collections/' was aborted.
+[2018.07.30-04.00.37:154][539]LogDirectoryWatcher: A directory notification for 'C:/Users/Alienware/Documents/GitHub/DesktopLaptopShare/SideScrollerWithMatt/Saved/Collections/' was aborted.
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.30-04.00.37:154][539]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.30-04.00.37:155][539]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.30-04.00.37:155][539]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.30-04.00.37:155][539]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.30-04.00.37:156][539]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.30-04.00.37:157][539]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.30-04.00.37:157][539]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.30-04.00.37:157][539]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.30-04.00.37:157][539]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.30-04.00.37:158][539]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.30-04.00.37:158][539]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.30-04.00.37:158][539]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.30-04.00.37:158][539]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.30-04.00.37:158][539]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.30-04.00.37:230][539]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.30-04.00.37:231][539]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.30-04.00.37:303][539]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.30-04.00.37:422][539]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.30-04.00.37:422][539]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.30-04.00.37:424][539]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.30-04.00.37:433][539]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.30-04.00.37:596][539]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.30-04.00.37:596][539]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.30-04.00.37:596][539]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.30-04.00.37:596][539]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.30-04.00.37:596][539]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.30-04.00.37:597][539]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.30-04.00.37:602][539]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.30-04.00.37:602][539]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.30-04.00.37:602][539]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.30-04.00.37:602][539]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.30-04.00.37:603][539]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.30-04.00.37:604][539]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.30-04.00.37:705][539]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.30-04.00.37:806][539]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.30-04.00.37:808][539]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.30-04.00.37:808][539]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.30-04.00.37:808][539]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.30-04.00.37:808][539]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.30-04.00.37:808][539]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.30-04.00.37:811][539]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.30-04.00.37:811][539]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.30-04.00.37:811][539]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.30-04.00.37:811][539]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.30-04.00.38:527][539]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.30-04.00.38:527][539]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.30-04.00.38:527][539]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.30-04.00.38:529][539]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.30-04.00.38:535][539]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.30-04.00.38:536][539]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.30-04.00.38:538][539]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.30-04.00.38:539][539]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.30-04.00.38:546][539]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.30-04.00.38:621][539]LogDerivedDataCache: Shutdown
+[2018.07.30-04.00.38:621][539]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.30-04.00.38:621][539]LogXGEController: Cleaning working directory: C:/Users/Alienware/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.30-04.00.38:621][539]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.30-04.00.38:621][539]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.30-04.00.38:622][539]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.30-04.00.38:623][539]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.30-04.00.38:623][539]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.30-04.00.38:623][539]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3AFDE8C9-4B18-0DAF-D0BE-7CABFB37CF80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=5ab1297e499db1ca124bc78224c17e12%7C33532271287b4c5b8e120e7ea1d39a3a%7Cf607efbe-4cf6-4a93-bb57-ab79db031876&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.30-04.00.38:653][539]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.30-04.00.38:656][539]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.30-04.00.38:656][539]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.30-04.00.38:656][539]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.30-04.00.38:656][539]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.30-04.00.38:657][539]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.30-04.00.38:657][539]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.30-04.00.38:657][539]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.30-04.00.38:683][539]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.30-04.00.38:684][539]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.30-04.00.38:684][539]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.30-04.00.38:697][539]LogExit: Exiting.
+[2018.07.30-04.00.38:764][539]Log file closed, 07/29/18 21:00:38
